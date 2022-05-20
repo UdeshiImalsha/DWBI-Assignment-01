@@ -1,0 +1,20 @@
+MethodID	Method						
+CA	Community Advantage						
+CLP	Certified Lenders Program						
+COMM EXPRS	Community Express (inactive)						
+DFP	Dealer Floor Plan (inactive)						
+DIRECT	Direct Loan (inactive)						
+EWCP	Export Working Capital Program						
+EXP CO GTY	Co-guaranty with Export-Import Bank (inactive)						
+EXPRES EXP	EXPRES EXP = Export Express						
+GO LOANS	Gulf Opportunity Loan (inactive)						
+INTER TRDE 	International Trade						
+OTH 7A	Other 7(a) Loan						
+PATRIOT EX	Patriot Express (inactive)						
+PLP	Preferred Lender Program						
+RLA	Rural Lender Advantage (inactive)						
+SBA EXPRES	SBA Express						
+SLA	Small Loan Advantage						
+USCAIP	US Community Adjustment and Investment Program						
+Y2K	Y2K Loan (inactive)						
+EXIM	EXIM						

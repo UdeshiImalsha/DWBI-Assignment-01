@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SBA 7a Loan Program", "SBA 7a Loan Program\SBA 7a Loan Program.dtproj", "{31877342-6E9D-422C-A6ED-6AB73C7A100E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31877342-6E9D-422C-A6ED-6AB73C7A100E}.Development|Default.ActiveCfg = Development
+		{31877342-6E9D-422C-A6ED-6AB73C7A100E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F212CB48-A432-4E0F-8740-9B6916450339}
+	EndGlobalSection
+EndGlobal
